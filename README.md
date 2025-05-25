@@ -2,7 +2,7 @@
 
 Arvid Lundervold, 26 May 2025
 
-"**AI-based solutions in medicine and healthcare**"  [[Google slides)(https://docs.google.com/presentation/d/e/2PACX-1vS4y8Fpi3dZhOEs8amQOsYsmBfHwFbbyqgzgsoESt672U9SyEJRdPqwx8uDHddDsMgRL9B0p7B_dhOd/pub?start=false&loop=false&delayms=3000)]
+"**AI-based solutions in medicine and healthcare**"  [[Google slides](https://docs.google.com/presentation/d/e/2PACX-1vS4y8Fpi3dZhOEs8amQOsYsmBfHwFbbyqgzgsoESt672U9SyEJRdPqwx8uDHddDsMgRL9B0p7B_dhOd/pub?start=false&loop=false&delayms=3000)]
 
 with a preliminary demo of AI agents using [CrewAI](https://www.crewai.com), addressing the [eCardicRehab](https://www.helse-bergen.no/en/procard/ecardiacrehab) project
 
