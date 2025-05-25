@@ -2,9 +2,9 @@
 
 Arvid Lundervold, 26 May 2025
 
-**"AI-based solutions in medicine and healthcare"**
+"**AI-based solutions in medicine and healthcare**"
 
-with a preliminar demo of AI agents using [CrewAI](https://www.crewai.com), addressing the [eCardicRehab](https://www.helse-bergen.no/en/procard/ecardiacrehab) project
+with a preliminary demo of AI agents using [CrewAI](https://www.crewai.com), addressing the [eCardicRehab](https://www.helse-bergen.no/en/procard/ecardiacrehab) project
 
 Haukeland University Hospital, Bikuben, Bergen, 26 May 2025
 
