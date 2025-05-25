@@ -10,7 +10,8 @@ __pycache__/
 # Logs
 */logs.log
 
+# Do not display API keys
+.env
+
 # Local nbs - not on repo
 my_stuff
-
-
